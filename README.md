@@ -1,5 +1,6 @@
 # Emertxe_IOT_Internship
 Project Title: IoT-Based Home Automation System using Arduino and Blynk
+
 Overview:
 This project involves the development of a simulated IoT-based home automation system using the Picsimlab simulator and Blynk mobile application. The system allows control over various home devices such as lights, temperature, and water tank valves through sensor readings and mobile app commands.
 
